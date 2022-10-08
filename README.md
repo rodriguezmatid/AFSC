@@ -1,5 +1,5 @@
 # AFSC
-![](img/imgfondo.jpeg "AFSC")
+![](images/imgfondo.jpeg "AFSC")
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/rodriguezmatid/AFSC?style=social" />
